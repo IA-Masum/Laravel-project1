@@ -1,0 +1,12 @@
+.c-no{
+  transition: 0.5s ease;
+}
+.c-no:hover{
+  color: tomato;
+  cursor: pointer;
+}
+
+.dropdown-item:hover{
+  background:#28a745 !important;
+  color:white !important;
+}
